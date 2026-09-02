@@ -1,0 +1,5 @@
+id,name,email,password,role,created_at,phone,address
+1,Admin,admin@,admin123,admin,2026-01-05 11:44:52,9385762182,puthenkadai
+4,fnx,fnx@,123,user,2026-01-05 12:00:12,9385762182,puthenkadai
+15,Admin,admin@bike.com,admin123,admin,2026-01-07 12:23:13,,
+16,Ashlin,ashlin@,ash123,user,2026-01-18 11:19:35,,
